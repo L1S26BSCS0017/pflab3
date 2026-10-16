@@ -1,0 +1,4 @@
+﻿  task1.cpp
+C:\Users\L1s26bscs0017\Desktop\pflab3\pflab3task1\pflab3task1\task1.cpp(21,16): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\L1s26bscs0017\Desktop\pflab3\pflab3task1\pflab3task1\task1.cpp(6,7): warning C4101: 'comma': unreferenced local variable
+  pflab3task1.vcxproj -> C:\Users\L1s26bscs0017\Desktop\pflab3\pflab3task1\Debug\pflab3task1.exe

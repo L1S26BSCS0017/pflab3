@@ -1,0 +1,5 @@
+DAY 1 12.5mm
+DAY 3 7.25mm
+DAY 4 30mm
+DAY 5 4.75mm
+DAY 7 18.5mm
