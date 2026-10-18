@@ -1,0 +1,5 @@
+Ali 10
+Sara 8
+Usman 8
+Hina 9
+Bilal 4
